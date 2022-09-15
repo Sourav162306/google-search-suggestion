@@ -1,0 +1,15 @@
+.list-item {
+  list-style-type: none;
+}
+.list-item-card-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sug-paragraph {
+  color: #475569;
+  font-size: 18px;
+}
+.arrow-img {
+  width: 30px;
+}
